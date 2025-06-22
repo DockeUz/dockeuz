@@ -2,10 +2,10 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Мой сайт</title>
+  <title>Docke Uzbekistan </title>
 </head>
 <body>
-  <h1>Привет, мир!</h1>
-  <p>Это мой первый сайт на GitHub Pages.</p>
+  <h1>Добро пожаловать!</h1>
+  <p> </p>
 </body>
 </html>
